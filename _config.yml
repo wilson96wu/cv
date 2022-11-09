@@ -71,10 +71,8 @@ content:
             On boarding and mentoring new developers and developers from other team.
 
             Create a "best idea wins" culture in the team.
-  
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
+              
+ 
       - layout: left
         title: Derivco
         link: derivco.co.za
