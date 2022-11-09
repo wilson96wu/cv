@@ -111,17 +111,17 @@ content:
       
       - layout: left
         border: weak
-        title: Derivco
-        link: derivco.co.za
+        title: Scansoft Technologies
+        link: scansoft.co.za
         # link_text: boringcompany.com
-        sub_title: Software Developer Level 2
-        caption: November 2009 - July 2013
+        sub_title: Full stack Developer
+        caption: July 2007 - October 2009
         description: |
-            Working on various games on different technologies, C++, Actionscript on Adobe Flash in the beginning.
+            Working on Intelligent Building Management System (IBMS) with VC++ .net and SQL.
 
-            As the company's focus shift to mobile in 2012, I worked on JavaScript, HTML5 and CSS.
+            Working in a small company enables me to working on entire technologies stack. I worked on hardware driver, Database design, Client development with various open source libraries.
 
-            In earlier days, browser and Javascript is not as powerful, I had to learning how to write effeicent code to run game in the browser.      
+            I also gained precious experience of interacting directly with our Clients: City of Capetown, Old Mutual, Sanlam, Shell and Engen.
 
   
   - title: Education # Title for the section
