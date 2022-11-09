@@ -48,29 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently working as a Senior Developer Level 2/Tech Lead in the Gaming Industry. I gained my master’s degree in computer science in 2007.  Worked as full stack developer from 2007 to 2009 by building intelligent building management systems with C++ and SQL. In 2009, I joined the gaming industry, became a front-end developer working on C++, ActionScript, JavaScript, and typescript. I created my first game engine in 2012, which became one of the most successful and long-standing game engines in our company. More than a hundred games have been developed on this engine, including many of our company’s legendary games. This engine is still in use today in 2022. Since 2019, I have been working on a new game engine focused on fast development and maintainability. For fast delivery, we build our engine on top of Cocos Creator to utilize its UI Editing and templating capability. For maintainability, we focus on re-usability, unit testing and automation, aiming to use a single code base to drive a large number of games. Currently, the entire department is adopting this new engine. For some of our games, we are able to reduce our development time from 3 months to a week.
+  I am currently working as a Senior Developer Level 2/Tech Lead in the Gaming Industry. I gained my master’s degree in computer science in 2007.  Worked as full stack developer from 2007 to 2009 by building intelligent building management systems with C++ and SQL. In 2009, I joined the gaming industry, became a front-end developer working on C++, ActionScript, JavaScript, and typescript. I created my first game engine in 2012, which became one of the most successful and long-standing game engines in our company. More than a hundred games have been developed on this engine, including many of our company’s legendary games. This engine is still in use today in 2022. 
+  Since 2019, I have been working on a new game engine focused on fast development and maintainability. For fast delivery, we build our engine on top of Cocos Creator to utilize its UI Editing and templating capability. For maintainability, we focus on re-usability, unit testing and automation, aiming to use a single code base to drive a large number of games. Currently, the entire department is adopting this new engine. For some of our games, we are able to reduce our development time from 3 months to a week.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
+    - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
