@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: wilson96wu/cv
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -83,15 +83,15 @@ content:
         sub_title: Senior Developer Level 1
         caption: July 2013 - September 2021       
         description: |
-            Working on solving difficult problems
-
-            Helping other team to improve game performance
-
+            I have Worked on different products in various teams across the company
+            
             Improving development process, creating tool to facilitate code/branch merging
 
-            Leading technical guild, initiate technical innovation. code review
+            Helping other teams to improve game performance
 
-            Worked on different products in various teams across the company
+            Helping other teams to solve difficult problems
+
+            Leading technical guild, initiate technical innovation. code review            
 
             
       - layout: left
@@ -131,23 +131,17 @@ content:
         caption: 2003 - 2006
         sub_title: MSc Computer Science        
         description: | # this will include new lines to allow paragraphs
-          I worked on earlier days of Voice over Internet Protocol technology
+          I worked on earlier days of **Voice over Internet Protocol** technology
 
           Focusing on enhancing the Session Initiation Protocol Presence model to protect sensitive geographic information which can be easily integrated into IP telephony services in order to reducing users' privacy concerns and increasing the user satisfaction.
           
-          I have been granted with Center of Excellence scholarship and graduated with Cum Laude
+          I have been granted with **Center of Excellence scholarship** and graduated with **Cum Laude**
 
-  - title: A Little More About Me
+  - title: Extra activities
     layout: text
+    caption: 2022
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Presented on Engine development on **Game Development Conference** at **International Convention Centre**, Durban
 
 # Footer
 footer_show_references: true
