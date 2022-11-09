@@ -71,7 +71,7 @@ content:
             On boarding and mentoring new developers and developers from other team.
 
             Create a "best idea wins" culture in the team.
-              
+
  
       - layout: left
         title: Derivco
@@ -90,6 +90,23 @@ content:
 
             Worked on different products in various teams across the company
             
+            
+      - layout: left
+        title: Derivco
+        link: derivco.co.za
+        # link_text: boringcompany.com
+        sub_title: Senior Developer Level 1
+        caption: July 2013 - September 2021
+        description: | # this will include new lines to allow paragraphs
+            Working on the solutions of difficult problems
+
+            Helping other team to improve game performance
+
+            Improving development process, creating tool to facilitate code/branch merging
+
+            Leading technical guild, initiate technical innovation. code review
+
+            Worked on different products in various teams across the company
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
