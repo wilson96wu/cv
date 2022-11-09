@@ -89,24 +89,20 @@ content:
             Leading technical guild, initiate technical innovation. code review
 
             Worked on different products in various teams across the company
-            
+
             
       - layout: left
         title: Derivco
         link: derivco.co.za
         # link_text: boringcompany.com
-        sub_title: Senior Developer Level 1
-        caption: July 2013 - September 2021
+        sub_title: Software Developer Level 2
+        caption: November 2009 - July 2013
         description: | # this will include new lines to allow paragraphs
-            Working on the solutions of difficult problems
+            Working on various games on different technologies, C++, Actionscript on Adobe Flash in the beginning.
 
-            Helping other team to improve game performance
+            As the company's focus shift to mobile in 2012, I worked on JavaScript, HTML5 and CSS.
 
-            Improving development process, creating tool to facilitate code/branch merging
-
-            Leading technical guild, initiate technical innovation. code review
-
-            Worked on different products in various teams across the company
+            In earlier days, browser and Javascript is not as powerful, I had to learning how to write effeicent code to run game in the browser.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
