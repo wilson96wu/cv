@@ -56,6 +56,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        border: weak
         title: Games Global
         link: gamesglobal.com
         # link_text: boringcompany.com
@@ -74,12 +75,13 @@ content:
 
  
       - layout: left
+        border: weak
         title: Derivco
         link: derivco.co.za
         # link_text: boringcompany.com
         sub_title: Senior Developer Level 1
         caption: July 2013 - September 2021       
-        description: | # this will include new lines to allow paragraphs
+        description: |
             Working on the solutions of difficult problems
 
             Helping other team to improve game performance
@@ -92,18 +94,35 @@ content:
 
             
       - layout: left
+        border: weak
         title: Derivco
         link: derivco.co.za
         # link_text: boringcompany.com
         sub_title: Software Developer Level 2
         caption: November 2009 - July 2013
-        description: | # this will include new lines to allow paragraphs
+        description: |
             Working on various games on different technologies, C++, Actionscript on Adobe Flash in the beginning.
 
             As the company's focus shift to mobile in 2012, I worked on JavaScript, HTML5 and CSS.
 
             In earlier days, browser and Javascript is not as powerful, I had to learning how to write effeicent code to run game in the browser.
 
+      
+      - layout: left
+        border: weak
+        title: Derivco
+        link: derivco.co.za
+        # link_text: boringcompany.com
+        sub_title: Software Developer Level 2
+        caption: November 2009 - July 2013
+        description: |
+            Working on various games on different technologies, C++, Actionscript on Adobe Flash in the beginning.
+
+            As the company's focus shift to mobile in 2012, I worked on JavaScript, HTML5 and CSS.
+
+            In earlier days, browser and Javascript is not as powerful, I had to learning how to write effeicent code to run game in the browser.      
+
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
