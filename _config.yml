@@ -138,10 +138,10 @@ content:
           I have been granted with **Center of Excellence scholarship** and graduated with **Cum Laude**
 
   - title: Extra activities
-    layout: text
-    caption: 2022
+    layout: text   
     content: | # this will include new lines to allow paragraphs
-      Presented on Engine development on **Game Development Conference** at **International Convention Centre**, Durban
+      Presented on Engine development on **Game Development Conference** at Durban **International Convention Centre** in 2022
+      Published **SIP Presence Location Service** on Southern Africa telecommunication networks & Applications Conference in 2004 and 2005 
 
 # Footer
 footer_show_references: true
