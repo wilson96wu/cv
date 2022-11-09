@@ -141,6 +141,7 @@ content:
     layout: text   
     content: | # this will include new lines to allow paragraphs
       Presented on Engine development on **Game Development Conference** at Durban **International Convention Centre** in 2022
+      
       Published **SIP Presence Location Service** on Southern Africa telecommunication networks & Applications Conference in 2004 and 2005 
 
 # Footer
